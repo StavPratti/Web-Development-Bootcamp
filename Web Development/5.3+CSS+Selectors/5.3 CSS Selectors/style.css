@@ -1,0 +1,26 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p {
+  color:rgb(231, 66, 66);
+}
+
+.note {
+  font-size: 20px
+}
+
+#id-selector-demo {
+  color: rgb(58, 173, 58)
+}
+
+li[value="4"] {
+  color: rgb(67, 67, 209)
+}
+
+* {
+  text-align: center
+}
